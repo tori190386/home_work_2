@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+/* 2.txt */
+h2 {
+    width: 100px;
+   	margin: 15px;
+   	background: red;
+    color: white;
+}
+
+.blue {
+	margin: 15px;
+    width: 350px;
+	height:  50px;
+    background: blue;
+}
+
+.yellow {
+    margin: 15px;
+    width: 350px;
+    height: 50px;
+    background: yellow;
+}

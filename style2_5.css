@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+/* 5 */
+.grey {
+	width: 500px;
+    height: 200px;
+    background: #D6D7BE;
+}
+h1, h2, h3, p  {
+    padding: 10px;
+} 
+h1 {
+    color: #532601;
+}
+h3 {
+    color: #875327;
+}
+a {
+    color: #285501;
+}
